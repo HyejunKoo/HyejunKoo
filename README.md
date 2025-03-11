@@ -2,15 +2,15 @@
 
 ### 💬 Introduce
 
-
 📌blog : [tistory]([티스토리](https://hyejuncoding.tistory.com/)") 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyejunKoo&layout=compact&theme=rose_pine)
 
-### 👀 GitHub Stats
+## 👀 GitHub Stats
 ![Hye jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyejunKoo&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khjcoco3387)](https://solved.ac/khjcoco3387/)
-### ⚡ SKILL
+
+## ⚡ SKILL
 
 ### Platforms & Languages
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -31,10 +31,10 @@
 
 
 
-### Tools
+## 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-# Contacts
+## 🤙Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khjcoco3387@ewhain.net)](mailto:khjcoco3387@ewhain.net)
