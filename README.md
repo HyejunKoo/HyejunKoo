@@ -2,7 +2,7 @@
 
 ### 💬 Introduce
 
-📌blog : <a href="[링크](https://hyejuncoding.tistory.com/)"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+📌blog : <a href="https://hyejuncoding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyejunKoo&layout=compact&theme=rose_pine)
 
