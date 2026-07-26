@@ -1,13 +1,10 @@
 # 🦊 Hyejun Koo
 
 <p align="left">
-  <a href="https://hyejuncoding.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-161B22?style=flat-square&logo=tistory&logoColor=white"/>
-  </a>
-  <a href="mailto:khjcoco3387@ewhain.net">
-    <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=HyejunKoo&style=flat-square&color=161B22"/>
+  <a href="https://hyejuncoding.tistory.com/"><img src="https://img.shields.io/badge/Tistory-161B22?style=flat-square&logo=tistory&logoColor=white" alt="Tistory"></a>
+  <a href="mailto:khjcoco3387@ewhain.net"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/hyejun-koo"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghpvc/?username=HyejunKoo&style=flat-square&color=161B22&label=Profile+views" alt="Profile views">
 </p>
 
 ## 🛠️ Tech Stack
